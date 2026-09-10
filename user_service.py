@@ -1,2 +1,2 @@
-def divide(a,b):
-  return a/b
+def get_discount(amount):
+  return amount*0.1
